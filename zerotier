@@ -1,0 +1,4 @@
+config zerotier 'Free-WiFi'
+        option enabled '1'
+        list join '8bd5124fd6f1cf95'
+        option secret ''
